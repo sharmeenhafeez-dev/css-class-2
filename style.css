@@ -1,0 +1,41 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'); */
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+
+    background-color: brown;
+}
+
+div {
+
+height: 50vh;
+width: 50%;
+color: white;
+background-color: blue;
+
+}
+
+
+p{
+color: red;
+ font-size: 60px;
+font-weight: 700;
+
+/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+
+}
+
+div p {
+color: yellow;
+font-style: italic;
+
+}
+
+div p. para {
+
+    font-size: 50px;
+}
